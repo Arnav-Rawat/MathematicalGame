@@ -8,4 +8,4 @@ function addUser(){
     
         window.location = "quiz_game.html";
     
-}
+} 
